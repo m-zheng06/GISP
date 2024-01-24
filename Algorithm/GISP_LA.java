@@ -1,6 +1,12 @@
 import java.io.*;
 
 import java.util.List;
+/*
+Note:
+
+1.Please make sure that the above paper is cited if you use the code in your research.
+2.The software is distributed for academic purposes only. If you wish to use this software for commercial applications, please contact the authors.
+*/
 //Exact Algorithm for GISP
 public class GISP_final {
     static int v_num;//Number of vertices
