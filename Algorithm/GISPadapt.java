@@ -3,6 +3,12 @@ import java.io.*;
 import java.util.List;
 import java.util.Random;
 import static java.lang.Math.pow;
+/*
+Note:
+
+1.Please make sure that the above paper is cited if you use the code in your research.
+2.The software is distributed for academic purposes only. If you wish to use this software for commercial applications, please contact the authors.
+*/
 //Heuristic Algorithms for GISP
 public class GISPadapt {
     static int v_num;
