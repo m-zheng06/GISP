@@ -1,6 +1,7 @@
 import java.io.*;
 
 import java.util.List;
+//Exact Algorithm for GISP
 public class GISP_final {
     static int v_num;//Number of vertices
     static int edgeNum;//number of edges
